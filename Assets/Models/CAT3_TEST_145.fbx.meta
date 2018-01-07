@@ -1,0 +1,140 @@
+fileFormatVersion: 2
+guid: 13affc54030d7d6418f17e6caec8781e
+timeCreated: 1485279379
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: cat_test1:back
+    100004: cat_test1:bottom
+    100006: cat_test1:imagePlane1
+    100008: cat_test1:imagePlane2
+    100010: cat_test1:imagePlane3
+    100012: cat_test1:imagePlane4
+    100014: cat_test1:imagePlane5
+    100016: cat_test1:joint1
+    100018: cat_test1:joint10
+    100020: cat_test1:joint11
+    100022: cat_test1:joint12
+    100024: cat_test1:joint13
+    100026: cat_test1:joint14
+    100028: cat_test1:joint15
+    100030: cat_test1:joint16
+    100032: cat_test1:joint2
+    100034: cat_test1:joint3
+    100036: cat_test1:joint4
+    100038: cat_test1:joint5
+    100040: cat_test1:joint6
+    100042: cat_test1:joint7
+    100044: cat_test1:joint8
+    100046: cat_test1:joint9
+    100048: cat_test1:left
+    100050: cat_test1:pCylinder1
+    100052: cat_test1:pSphere13
+    100054: cat_test1:pSphere20
+    400000: //RootNode
+    400002: cat_test1:back
+    400004: cat_test1:bottom
+    400006: cat_test1:imagePlane1
+    400008: cat_test1:imagePlane2
+    400010: cat_test1:imagePlane3
+    400012: cat_test1:imagePlane4
+    400014: cat_test1:imagePlane5
+    400016: cat_test1:joint1
+    400018: cat_test1:joint10
+    400020: cat_test1:joint11
+    400022: cat_test1:joint12
+    400024: cat_test1:joint13
+    400026: cat_test1:joint14
+    400028: cat_test1:joint15
+    400030: cat_test1:joint16
+    400032: cat_test1:joint2
+    400034: cat_test1:joint3
+    400036: cat_test1:joint4
+    400038: cat_test1:joint5
+    400040: cat_test1:joint6
+    400042: cat_test1:joint7
+    400044: cat_test1:joint8
+    400046: cat_test1:joint9
+    400048: cat_test1:left
+    400050: cat_test1:pCylinder1
+    400052: cat_test1:pSphere13
+    400054: cat_test1:pSphere20
+    2300000: cat_test1:pSphere20
+    3300000: cat_test1:pSphere20
+    4300000: cat_test1:pSphere13
+    4300002: cat_test1:pCylinder1
+    4300004: cat_test1:pSphere20
+    7400000: Take 001
+    9500000: //RootNode
+    13700000: cat_test1:pCylinder1
+    13700002: cat_test1:pSphere13
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 400
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

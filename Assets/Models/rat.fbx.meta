@@ -1,0 +1,459 @@
+fileFormatVersion: 2
+guid: 4e25a3db638f511469908dbaf8a6f79c
+timeCreated: 1485248133
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: back
+    100002: group
+    100004: group1
+    100006: imagePlane3
+    100008: imagePlane5
+    100010: imagePlane6
+    100012: left
+    100014: pasted__joint1
+    100016: pasted__joint10
+    100018: pasted__joint11
+    100020: pasted__joint12
+    100022: pasted__joint13
+    100024: pasted__joint14
+    100026: pasted__joint15
+    100028: pasted__joint2
+    100030: pasted__joint3
+    100032: pasted__joint4
+    100034: pasted__joint6
+    100036: pasted__joint7
+    100038: pasted__joint8
+    100040: pasted__joint9
+    100042: pasted__pasted__joint10
+    100044: pasted__pasted__joint11
+    100046: pasted__pasted__joint12
+    100048: pasted__pasted__joint13
+    100050: pasted__pasted__joint14
+    100052: pasted__pasted__joint9
+    100054: pCylinder2
+    100056: pCylinder3
+    100058: pCylinder4
+    100060: pCylinder5
+    100062: pCylinder7
+    100064: pCylinder8
+    100066: pSphere7
+    100068: //RootNode
+    400000: back
+    400002: group
+    400004: group1
+    400006: imagePlane3
+    400008: imagePlane5
+    400010: imagePlane6
+    400012: left
+    400014: pasted__joint1
+    400016: pasted__joint10
+    400018: pasted__joint11
+    400020: pasted__joint12
+    400022: pasted__joint13
+    400024: pasted__joint14
+    400026: pasted__joint15
+    400028: pasted__joint2
+    400030: pasted__joint3
+    400032: pasted__joint4
+    400034: pasted__joint6
+    400036: pasted__joint7
+    400038: pasted__joint8
+    400040: pasted__joint9
+    400042: pasted__pasted__joint10
+    400044: pasted__pasted__joint11
+    400046: pasted__pasted__joint12
+    400048: pasted__pasted__joint13
+    400050: pasted__pasted__joint14
+    400052: pasted__pasted__joint9
+    400054: pCylinder2
+    400056: pCylinder3
+    400058: pCylinder4
+    400060: pCylinder5
+    400062: pCylinder7
+    400064: pCylinder8
+    400066: pSphere7
+    400068: //RootNode
+    2300000: pCylinder2
+    2300002: pCylinder5
+    3300000: pCylinder2
+    3300002: pCylinder5
+    4300000: pCylinder2
+    4300002: pCylinder3
+    4300004: pCylinder4
+    4300006: pCylinder5
+    4300008: pCylinder7
+    4300010: pCylinder8
+    4300012: pSphere7
+    7400000: Hide
+    7400002: Open
+    7400004: Walk
+    9500000: //RootNode
+    13700000: pCylinder3
+    13700002: pCylinder4
+    13700004: pCylinder7
+    13700006: pCylinder8
+    13700008: pSphere7
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Hide
+      takeName: Take 001
+      firstFrame: 1
+      lastFrame: 25
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: back
+        weight: 1
+      - path: group
+        weight: 1
+      - path: group1
+        weight: 1
+      - path: group1/pasted__joint1
+        weight: 1
+      - path: group1/pasted__joint1/pasted__joint2
+        weight: 1
+      - path: group1/pasted__joint1/pasted__joint2/pasted__joint3
+        weight: 1
+      - path: group1/pasted__joint1/pasted__joint2/pasted__joint3/pasted__joint4
+        weight: 1
+      - path: group1/pasted__joint1/pasted__joint15
+        weight: 1
+      - path: group1/pasted__joint1/pasted__joint15/pasted__joint6
+        weight: 1
+      - path: group1/pasted__joint1/pasted__joint15/pasted__joint6/pasted__joint7
+        weight: 1
+      - path: group1/pasted__joint1/pasted__joint15/pasted__joint6/pasted__joint7/pasted__joint8
+        weight: 1
+      - path: imagePlane3
+        weight: 1
+      - path: imagePlane5
+        weight: 1
+      - path: imagePlane6
+        weight: 1
+      - path: left
+        weight: 1
+      - path: pasted__joint9
+        weight: 1
+      - path: pasted__joint9/pasted__joint10
+        weight: 1
+      - path: pasted__joint9/pasted__joint10/pasted__joint11
+        weight: 1
+      - path: pasted__joint12
+        weight: 1
+      - path: pasted__joint12/pasted__joint13
+        weight: 1
+      - path: pasted__joint12/pasted__joint13/pasted__joint14
+        weight: 1
+      - path: pasted__pasted__joint9
+        weight: 1
+      - path: pasted__pasted__joint9/pasted__pasted__joint10
+        weight: 1
+      - path: pasted__pasted__joint9/pasted__pasted__joint10/pasted__pasted__joint11
+        weight: 1
+      - path: pasted__pasted__joint12
+        weight: 1
+      - path: pasted__pasted__joint12/pasted__pasted__joint13
+        weight: 1
+      - path: pasted__pasted__joint12/pasted__pasted__joint13/pasted__pasted__joint14
+        weight: 1
+      - path: pCylinder2
+        weight: 1
+      - path: pCylinder3
+        weight: 1
+      - path: pCylinder4
+        weight: 1
+      - path: pCylinder5
+        weight: 1
+      - path: pCylinder7
+        weight: 1
+      - path: pCylinder8
+        weight: 1
+      - path: pSphere7
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Open
+      takeName: Take 001
+      firstFrame: 26
+      lastFrame: 50
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: back
+        weight: 1
+      - path: group
+        weight: 1
+      - path: group1
+        weight: 1
+      - path: group1/pasted__joint1
+        weight: 1
+      - path: group1/pasted__joint1/pasted__joint2
+        weight: 1
+      - path: group1/pasted__joint1/pasted__joint2/pasted__joint3
+        weight: 1
+      - path: group1/pasted__joint1/pasted__joint2/pasted__joint3/pasted__joint4
+        weight: 1
+      - path: group1/pasted__joint1/pasted__joint15
+        weight: 1
+      - path: group1/pasted__joint1/pasted__joint15/pasted__joint6
+        weight: 1
+      - path: group1/pasted__joint1/pasted__joint15/pasted__joint6/pasted__joint7
+        weight: 1
+      - path: group1/pasted__joint1/pasted__joint15/pasted__joint6/pasted__joint7/pasted__joint8
+        weight: 1
+      - path: imagePlane3
+        weight: 1
+      - path: imagePlane5
+        weight: 1
+      - path: imagePlane6
+        weight: 1
+      - path: left
+        weight: 1
+      - path: pasted__joint9
+        weight: 1
+      - path: pasted__joint9/pasted__joint10
+        weight: 1
+      - path: pasted__joint9/pasted__joint10/pasted__joint11
+        weight: 1
+      - path: pasted__joint12
+        weight: 1
+      - path: pasted__joint12/pasted__joint13
+        weight: 1
+      - path: pasted__joint12/pasted__joint13/pasted__joint14
+        weight: 1
+      - path: pasted__pasted__joint9
+        weight: 1
+      - path: pasted__pasted__joint9/pasted__pasted__joint10
+        weight: 1
+      - path: pasted__pasted__joint9/pasted__pasted__joint10/pasted__pasted__joint11
+        weight: 1
+      - path: pasted__pasted__joint12
+        weight: 1
+      - path: pasted__pasted__joint12/pasted__pasted__joint13
+        weight: 1
+      - path: pasted__pasted__joint12/pasted__pasted__joint13/pasted__pasted__joint14
+        weight: 1
+      - path: pCylinder2
+        weight: 1
+      - path: pCylinder3
+        weight: 1
+      - path: pCylinder4
+        weight: 1
+      - path: pCylinder5
+        weight: 1
+      - path: pCylinder7
+        weight: 1
+      - path: pCylinder8
+        weight: 1
+      - path: pSphere7
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Walk
+      takeName: Take 001
+      firstFrame: 60
+      lastFrame: 84
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: back
+        weight: 1
+      - path: group
+        weight: 1
+      - path: group1
+        weight: 1
+      - path: group1/pasted__joint1
+        weight: 1
+      - path: group1/pasted__joint1/pasted__joint2
+        weight: 1
+      - path: group1/pasted__joint1/pasted__joint2/pasted__joint3
+        weight: 1
+      - path: group1/pasted__joint1/pasted__joint2/pasted__joint3/pasted__joint4
+        weight: 1
+      - path: group1/pasted__joint1/pasted__joint15
+        weight: 1
+      - path: group1/pasted__joint1/pasted__joint15/pasted__joint6
+        weight: 1
+      - path: group1/pasted__joint1/pasted__joint15/pasted__joint6/pasted__joint7
+        weight: 1
+      - path: group1/pasted__joint1/pasted__joint15/pasted__joint6/pasted__joint7/pasted__joint8
+        weight: 1
+      - path: imagePlane3
+        weight: 1
+      - path: imagePlane5
+        weight: 1
+      - path: imagePlane6
+        weight: 1
+      - path: left
+        weight: 1
+      - path: pasted__joint9
+        weight: 1
+      - path: pasted__joint9/pasted__joint10
+        weight: 1
+      - path: pasted__joint9/pasted__joint10/pasted__joint11
+        weight: 1
+      - path: pasted__joint12
+        weight: 1
+      - path: pasted__joint12/pasted__joint13
+        weight: 1
+      - path: pasted__joint12/pasted__joint13/pasted__joint14
+        weight: 1
+      - path: pasted__pasted__joint9
+        weight: 1
+      - path: pasted__pasted__joint9/pasted__pasted__joint10
+        weight: 1
+      - path: pasted__pasted__joint9/pasted__pasted__joint10/pasted__pasted__joint11
+        weight: 1
+      - path: pasted__pasted__joint12
+        weight: 1
+      - path: pasted__pasted__joint12/pasted__pasted__joint13
+        weight: 1
+      - path: pasted__pasted__joint12/pasted__pasted__joint13/pasted__pasted__joint14
+        weight: 1
+      - path: pCylinder2
+        weight: 1
+      - path: pCylinder3
+        weight: 1
+      - path: pCylinder4
+        weight: 1
+      - path: pCylinder5
+        weight: 1
+      - path: pCylinder7
+        weight: 1
+      - path: pCylinder8
+        weight: 1
+      - path: pSphere7
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 50
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
